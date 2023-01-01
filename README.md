@@ -3,7 +3,7 @@ C++ library for quick and easy password/keyword encryption using character array
 
 ## Directions to install and use the library:
 
-#### 1. Download all files in "library" folder. Ensure to write [#include "cppencrypt.h"] in your main program. Also, ensure that the library files are in the same directory level as your main program.
+#### 1. Download all files in "library" folder. Ensure to write *#include "cppencrypt.h"* at the top of your main program. Also, ensure that the library files are in the same directory level as your main program.
 
 #### 2. Read all documentation and code comments for clarification if needed. This version only supports character arrays.
 
