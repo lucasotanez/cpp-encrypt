@@ -5,7 +5,7 @@ C++ library for quick and easy password/keyword encryption using character array
 
 ### 1. Download all files in "library" folder.
 
-### 2. Read all documentation and code comments for clarification if needed. \n IMPORTANT: This version only supports character arrays.
+### 2. Read all documentation and code comments for clarification if needed. This version only supports character arrays.
 
 ### 3. To compile your code, make sure to include the cpp library file:
 ```
