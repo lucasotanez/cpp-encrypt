@@ -3,6 +3,7 @@
 #include "cppencrypt.h"
 
 //This code is an example of the library. Use it for reference.
+//Compile and run this script to view the output.
 
 int main(){
 
