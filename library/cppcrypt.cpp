@@ -37,7 +37,7 @@ void swapShifter(int* key, int i)
 }
 
 Key::Key()
-: ciphertext_(ciphertext_ = new char[27]), len_(0)
+: ciphertext_(ciphertext_ = new char[28]), len_(0)
 {}
 
 Key::Key(const char* password)
